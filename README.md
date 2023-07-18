@@ -1,1 +1,1 @@
-##  End to End Machine Learning Classification project
+##  End to End Machine Learning Score prediction project
