@@ -61,7 +61,7 @@ if __name__=='__main__':
     print(modeltrainer.initiate_data_trainer(train_arr,test_arr))
     
     
-
+    
            
 
 
