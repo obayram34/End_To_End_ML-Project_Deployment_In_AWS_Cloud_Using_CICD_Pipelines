@@ -1,1 +1,1 @@
-##  End to End Machine Learning Project for prediction  Student performance Score
+##  End to End Machine Learning Project for predicting  Student performance Score
